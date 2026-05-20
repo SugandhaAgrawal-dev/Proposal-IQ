@@ -80,3 +80,4 @@ The project is built on a modern, decoupled Full-Stack architecture:
 ### Security & Deployment
 *   **Security**: Express rate-limiting prevents API abuse (crucial for expensive LLM calls). Passwords are encrypted via `bcrypt`, and sessions are managed via stateless JWTs.
 *   **Storage**: Supabase Storage securely holds raw document files, with access governed by row-level security (RLS).
+# Proposal-IQ
